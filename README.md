@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mr-N3XUS</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
+<p align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding" width="500"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-n3xus&label=Profile%20views&color=0e75b6&style=flat" alt="mr-n3xus" /> </p>
 
