@@ -27,7 +27,7 @@
 <br>
 
 <p align="center" >
-  <img src="https://media1.tenor.com/m/771GAt_nZtIAAAAd/mr-robot-edit-mr-robot.gif" alt="Coding" heght="1000" />
+  <img src="https://media1.tenor.com/m/771GAt_nZtIAAAAd/mr-robot-edit-mr-robot.gif" alt="Coding" heght="500" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-n3xus&show_icons=true&locale=en&layout=compact" alt="mr-n3xus" /></p>
